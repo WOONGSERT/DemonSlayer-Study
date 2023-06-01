@@ -1,6 +1,6 @@
-# ✏️ WOONGSERT FRONTEND STUDY
+# ✏️ WOONGSERT DEMON SLAYER STUDY
 
-웅서트 프로젝트에 사용할 기술(Redux, Jest/PlayWright, Next.JS, React Query)들을 함께 프로젝트로 공부합니다.
+웅서트 프로젝트에 사용할 기술(물의 호흡, 번개의 호흡, 히노카미 카구라, 사랑의 호흡, 안개의 호흡)들을 함께 프로젝트로 공부합니다.
 
 ## ✅ 기간
 
